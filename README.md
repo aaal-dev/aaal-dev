@@ -9,7 +9,7 @@ I'm tired C++ game developer at day.
 [![OpenAL](https://img.shields.io/badge/OpenAL-%23EEEEEE.svg?style=for-the-badge)](https://github.com/kcat/openal-soft)
 
 
-And young Zig game developer at night.  
+And novice Zig game developer at night.  
 
 [![Zig](https://img.shields.io/badge/zig-%23111111.svg?style=for-the-badge&logo=zig)](https://ziglang.org/)
 [![raylib](https://img.shields.io/badge/raylib-%23f5f5f5.svg?style=for-the-badge)](https://www.raylib.com/)
